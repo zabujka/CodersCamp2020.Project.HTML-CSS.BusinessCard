@@ -1,17 +1,10 @@
+# ZABUJKA TRAVEL
+strona wymyślonego biura podróży
+
+
+
 # CodersCamp 2020 - Projekt HTML & CSS
-**CodersCamp (coderscamp.edu.pl) - Największy otwarty kurs programowania webowego** 
-
-Gratulacje! 
-Skoro czytacie ten tekst, oznacza to, że dowiedliście swoich umiejętności ze znajomości HTML & CSS. 
-Zostaliście przydzieleni do zespołu, który będzie się uczył programowania i wykonywał prawdziwe aplikacje webowe.
-Teraz stajecie przed pierwszym większym wyzwaniem. 
-Technologie, o których się uczyliście, trzeba zastosować w praktyce.
-To pierwszy i ostatni na CodersCamp projekt, który będziecie robić w pojedynkę.
-Jednakże już macie cały zespół i mentora, który z pewnością będzie Was wspierał.
-
 ## Projekt HTML & CSS — Wizytówka / Portfolio
-
-### Zasady wykonywania projektu (wspólne dla wszystkich grup i mentorów): 
 
 ##### W projekcie każdy z uczestników powinien zaprezentować praktyczną znajomość poniższych zagadnień związanych z HTML & CSS:
 - Box-model
